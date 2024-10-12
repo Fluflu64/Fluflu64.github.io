@@ -1,0 +1,48 @@
+html, body {
+margin: 0;
+padding: 0;
+}
+body {
+background-image: url(background.png);
+background-size: auto ;
+font-family: red, sans-serif;
+font-size: 100%;
+image-rendering: pixelated;}
+h1 {
+font-size: 200%;
+color: rgb(255, 0, 0);
+text-align: center; }
+h64 {
+font-size: 100%;
+color: red}
+h2 {
+font-size: 100%;
+color: white;
+padding-left: 5px; 
+text-align: left;}
+p,ul,li,td {
+color: white; }
+a:link {
+color: white;
+text-decoration: underline; }
+h4 {
+font-size: 100%;
+color: white;
+text-align: left; 
+image-rendering: high-quality;}
+himg {
+font-size: 100%;
+color: white; 
+
+image-rendering: pixelated;}
+
+a:visited {
+color: gray;
+text-align: left; }
+a:hover {
+color: green;
+text-decoration: none; 
+text-align: left;}
+a:active, a:focus {
+color: white;
+text-align: left; }
